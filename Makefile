@@ -4,7 +4,7 @@ F_CPU=16000000
 
 TARGET=atreus
 
-LAYOUT ?= qwerty
+LAYOUT ?= jonas
 ifneq ($(LAYOUT), qwerty)
 LAYOUT_DEPENDS=jsonlayout
 endif
