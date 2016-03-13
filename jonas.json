@@ -3,12 +3,12 @@
   ["SEMICOLON", "Q", "J", "K", "X", "CTRL", "B", "M", "W", "V", "Z"],
   ["ESC", "TAB", "ALT", "SHIFT", "BACKSPACE", "GUI", "SPACE", "FN", "SLASH", "MINUS", "DELETE"]],
  [[["shift", "1"], ["shift", "2"], ["shift", "3"], ["shift", "4"],["shift", "5"], ["shift", "6"], ["shift", "7"], ["shift", "8"], ["shift", "9"], ["shift", "0"]],
-  ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"],
-  [["shift", "TILDE"], "PAGE_UP", "PAGE_DOWN", "LEFT_BRACE", ["shift", "LEFT_BRACE"], "CTRL", ["shift", "RIGHT_BRACE"], "RIGHT_BRACE", "", "UP", "EQUAL"],
-  [["function", 2], ["shift", "INSERT"], "ALT", "SHIFT", "ENTER", "GUI","SPACE", "FN", "LEFT", "DOWN", "RIGHT"]],
- [["HOME", "UP", "END", "INSERT", "PAGE_UP", "UP", "F7", "F8", "F9", "F10"],
-  ["LEFT", "DOWN", "RIGHT", "DELETE", "PAGE_DOWN", "DOWN", "F4", "F5", "F6", "F11"],
-  ["", "", "", "", "", "CTRL", "", "F1", "F2", "F3", "F12"],
+  ["EQUAL", "LEFT", "UP", "RIGHT", "PAGE_UP", "PAGE_DOWN", "0", "1", "2", "3"],
+  [["shift", "TILDE"], "DELETE", "DOWN", ["shift", "LEFT_BRACE"], ["shift", "RIGHT_BRACE"], "CTRL", "LEFT_BRACE", "RIGHT_BRACE", "4", "5", "6"],
+  [["function", 2], ["shift", "INSERT"], "ALT", "SHIFT", "ENTER", "GUI","SPACE", "FN", "7", "8", "9"]],
+ [["INSERT", "", "HOME", "END", "PAGE_UP", "UP", "F7", "F8", "F9", "F10"],
+  ["DELETE", "LEFT", "UP", "RIGHT", "PAGE_DOWN", "DOWN", "F4", "F5", "F6", "F11"],
+  ["", "", "DOWN", "", "", "CTRL", "", "F1", "F2", "F3", "F12"],
   ["", "", "ALT", "SHIFT", "BACKSPACE", "GUI","SPACE", "FN", "", "", ["reset"]]]
 ]
 
